@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Есть дефект или нет
 
 Небольшое решение задания по компьютерному зрению. Скрипт получает путь к
@@ -96,3 +97,7 @@ defect-detector/
 └── tests/
     └── test_detector.py
 ```
+=======
+# hack-cc6a58a7-the-good-the-bad-and-the-ugly
+Hackathon team repository for The Good, the Bad and the Ugly
+>>>>>>> 5f71ec36c2f2bf79f93fe15209b239d0e651b208
